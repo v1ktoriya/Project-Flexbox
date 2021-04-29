@@ -8,7 +8,7 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-image: url(../Images/Photo1.jpeg);
+    background-image: url(../Images/Header.jpeg);
     padding: 200px 0px;    
     background-size: cover;
     background-position: center center;
