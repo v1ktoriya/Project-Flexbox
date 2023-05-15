@@ -144,6 +144,8 @@ footer > * {
   padding: 30px;  
   box-sizing: border-box;
   margin-inline: auto;
+  min-width: 300px;
+  max-width: 50%;
 }
 
 form {
